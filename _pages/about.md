@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sociology rad student @ <a href='https://sociology.duke.edu/'>Duke University</a>. Address. Contacts. Motto. Etc.
+subtitle: Sociology rad student @ <a href='https://sociology.duke.edu/'>Duke University</a>.
 
 profile:
   align: right
@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-I’m a PhD student in sociology at Duke University.
 
 I’m interested in the use of computational methods to study politics and culture. My research focuses on taking advantage of natural language processing to explore new ways of thinking about ideology, collective action and meaning-making in politics.
 
