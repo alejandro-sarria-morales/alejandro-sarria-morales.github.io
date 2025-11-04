@@ -6,7 +6,7 @@
 @use "sass:color";
 
 // Colors
-$red-color: #ff3636 !default;
+$red-color: #d84654 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
@@ -25,12 +25,12 @@ $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1c1c1d;
+$grey-color-light: #646e78 !default;
+$grey-color-dark: #3a4042;
 $grey-900: #212529;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #fbf5ef !default;
+$black-color: #0f110c !default;
 
 // Theme colors
 
