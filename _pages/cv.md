@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: default
 permalink: /cv/
-title: Curriculum Vitae
+title: cv
 nav: true
 ---
 
