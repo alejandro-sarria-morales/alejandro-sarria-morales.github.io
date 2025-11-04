@@ -29,8 +29,8 @@ latest_posts:
 
 I’m a PhD student in sociology at Duke University.
 
-I’m interested in the use of computational methods to study politics and culture. My research focuses on taking advantage of natural language processing to explore new ways of thinking about ideology, coalition
+I’m interested in the use of computational methods to study politics and culture. My research focuses on taking advantage of natural language processing to explore new ways of thinking about ideology, collective action and meaning-making in politics.
 
-I hold an MA in Computational Social Science from the University of Chicago and a BA in Psychology from Universidad de los Andes.
+I hold an MA in Computational Social Science from the University of Chicago and a BA in Psychology from Universidad de los Andes. You can see my complete CV here.
 
 I was born and raised in Bogotá, Colombia, and like to [cook](https://www.instagram.com/fromrags.todishes/) in my free time.
