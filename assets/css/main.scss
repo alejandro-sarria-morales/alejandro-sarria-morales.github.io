@@ -23,3 +23,9 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// === Social icons customization ===
+.contact-icons i {
+  font-size: 0.6rem;   // smaller icons; adjust 0.8rem, 1rem, etc.
+  margin-right: 0.3rem; // spacing between icons
+}
