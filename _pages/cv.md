@@ -4,4 +4,4 @@ permalink: /cv/
 title: Curriculum Vitae
 ---
 
-cv goes here in an iframe
+<iframe src="/assets/cv.pdf" width="100%" height="800px"></iframe>
