@@ -26,6 +26,6 @@ latest_posts:
 
 I’m interested in the use of computational methods to study politics and culture. My research focuses on taking advantage of **natural language processing** to explore new ways of thinking about **ideology**, **collective action** and **meaning-making** in politics.
 
-I hold an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/). You can see my complete CV [here](../assets/cv.pdf).
+Before coming to Duke, I received an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/). You can see my complete CV [here](../assets/cv.pdf).
 
 I was born and raised in Bogotá, Colombia, and like to [cook](https://www.instagram.com/fromrags.todishes/) in my free time.
