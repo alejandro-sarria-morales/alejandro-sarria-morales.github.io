@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m interested in the use of computational methods to study politics and culture. My research focuses on understanding the organization of **ideology** and other **belief systems** through quantitative modelling and **natural language processing**.
+I’m interested in the use of computational methods to study politics and culture. My research focuses on using **statistical methods** and **natural language processing** to understand the organization of **belief systems**, and to the measure and model the behavior of **cultural objects**.
 
 Before coming to Duke, I received an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/). You can see my complete CV [here](https://alejandro-sarria-morales.github.io/cv/).
 
