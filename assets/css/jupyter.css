@@ -69,8 +69,8 @@
     * The following are the main layout colors use in JupyterLab. In a light
     * theme these would go from light to dark.
     */
-  --jp-layout-color0: white;
-  --jp-layout-color1: white;
+  --jp-layout-color0: transparent;
+  --jp-layout-color1: transparent;
   --jp-layout-color2: var(--md-grey-200);
   --jp-layout-color3: var(--md-grey-400);
 
