@@ -40,7 +40,7 @@ I process the text and look at how candidate mentions are distributed in the cor
 
 ![Candidates' share of mention per month](../assets/img/posts/candidate_trajectories/topnwords.png)
 
-Interesting. For how strong he is polling, De la Espriella become relevant relatively recently. The optimist in me hopes this suggests that he will deflate soon. The rest of the top candidates are regular fixtures in the political field, so it is not surprising that they dominate in mentions.
+Interesting. For how strong he is polling, De la Espriella became a common fixture in political news relatively recently. The optimist in me hopes this suggests that he will deflate soon. The rest of the top candidates are regular fixtures in the political field, so it is not surprising that they dominate in mentions.
 
 ## Embeddings
 
