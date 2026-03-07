@@ -90,6 +90,9 @@ In his case, we are only interested in the later part of the period, few expecte
 
 Maybe the ALC embeddings are able to capture the hard time that traditional news media, such as _El Espectador_ have when trying to conceptualize this type character.
 
+
+## **Footnotes**
+
 [^1]: At the time of writing. March 4th, 2026
 
 [^2]: J. Zaller (1992). The Nature and Origins of Mass Opinion
