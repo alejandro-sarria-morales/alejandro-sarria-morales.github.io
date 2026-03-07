@@ -30,7 +30,7 @@ So, if we want to see the frames of reference that people are being "offered" to
 
 I scrapped all articles in the politics section of _El Espectador_ from august 2022 to january 2026. This results in 12990 articles, covering all of the current presidential period. We get some context about how candidates were being talked about before the election cycle started in full. The scraping code is available [here](data/scraper.py).
 
-<img src="/assets/img/posts/candidate_trajectories/n_articles.png" alt="Articles scraped per month" style="width: 75%;">
+<img src="/assets/img/posts/candidate_trajectories/n_articles.png" alt="Articles scraped per month" style="width: 90%;">
 
 Barring the first and last months of the period, we have a solid number of articles per month.
 
@@ -38,7 +38,7 @@ Before training the model we need to do some preprocessing beyond basic cleaning
 
 I process the text and look at how candidate mentions are distributed in the corpus over time. For now, I focus on candidates that, according to the last poll I saw, have any chance to make it to the first round ballot.
 
-<img src="/assets/img/posts/candidate_trajectories/mentions.png" alt="Candidates' share of mention per month" style="width: 75%;">
+<img src="/assets/img/posts/candidate_trajectories/mentions.png" alt="Candidates' share of mention per month" style="width: 90%;">
 
 Interesting. For how strong he is polling, De la Espriella became a common fixture in political news relatively recently. The optimist in me hopes this suggests that he will deflate soon. The rest of the top candidates are regular fixtures in the political arena, so it is not surprising that they dominate in mentions.
 
@@ -46,7 +46,7 @@ Interesting. For how strong he is polling, De la Espriella became a common fixtu
 
 I use these articles to train a Word2Vec model basing the parameters on Rodríguez and Spirling (2022)[^3]. The model contains the vectors for 26624 unique words. We can use it get an initial sense of the meaning given to candidates in the corpus by looking at the most similar words to each of them based on their cosine similarity. 
 
-<img src="/assets/img/posts/candidate_trajectories/topnwords.png" alt="Each candidate's most similar words in the vocabulary" style="width: 75%;">
+<img src="/assets/img/posts/candidate_trajectories/topnwords.png" alt="Each candidate's most similar words in the vocabulary" style="width: 90%;">
 
 Again, some interesting stuff here but nothing super surprising. Candidate meanings seem to coalesce around each other as alliances and consultations pop up. This is particularly true for candidate that are polling low (See Vicky Dávila, Mauricio Cárdenas, Enrique Peñalosa, and other members of `La Gran Consulta por Colombia`). 
 
@@ -64,7 +64,7 @@ We can visualize these trajectories by locating each candidate-month vector in a
 
 Interpreting distances in high-dimensional spaces can be tricky. Concepts that have a lot in common but have culturally-salient differences (e.g. man and woman) are oppositional while concepts that have truly nothing in common (e.g. man and staircase) are orthogonal. In embedding spaces, orthogonality leads to higher distance than oppositionality, even though the latter is more relevant to us[^6]. Sometimes the more interesting distances are not the largest.
 
-<img src="/assets/img/posts/candidate_trajectories/trajectories.png" alt="Candidate trajectories' in semantic space from August 2022 to January 2026" style="width: 75%;">
+<img src="/assets/img/posts/candidate_trajectories/trajectories.png" alt="Candidate trajectories' in semantic space from August 2022 to January 2026" style="width: 90%;">
 
 This is much more informative than a static representation of the global model. Let's try to make sense of some trajectories.
 
