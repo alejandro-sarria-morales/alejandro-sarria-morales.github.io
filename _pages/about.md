@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I use computational methods to study political belief systems. My work draws on **statistical modeling**, **social network analysis** and **natural language processing** to understand how **systems of political beliefs** are structured, and how they influence the way people think and act.
+I use computational methods to study political belief systems. My work draws on **statistical modeling** and **natural language processing** to understand how **systems of political beliefs** are structured, and how they influence the way people think and act.
 
 Before coming to Duke, I received an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/). You can see my complete CV [here](https://alejandro-sarria-morales.github.io/cv/).
 
