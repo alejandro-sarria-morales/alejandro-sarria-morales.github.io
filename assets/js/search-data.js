@@ -28,7 +28,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-ll-be-in-bogotá-this-summer-to-be-a-part-of-the-team-for-this-year-s-summer-institute-in-computational-social-science",
+            },},{id: "news-as-an-excuse-to-teach-myself-the-alc-embedding-method-i-wrote-a-quick-analysis-of-how-news-media-represents-presidential-candidates-in-an-election-with-19-candidates-check-it-out",
+          title: 'As an excuse to teach myself the ALC embedding method, I wrote a...',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-in-bogotá-this-summer-to-be-a-part-of-the-team-for-this-year-s-summer-institute-in-computational-social-science",
           title: 'I’ll be in Bogotá this summer to be a part of the team...',
           description: "",
           section: "News",},{id: "projects-project-1",
