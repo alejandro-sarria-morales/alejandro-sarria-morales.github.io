@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to be part of the teaching team for [SICSS-Bogota 2026](https://sicss.io/2026/bogota/)!
+I'll be in Bogotá this summer to be a part of the team for this year's [Summer Institute in Computational Social Science](https://sicss.io/2026/bogota/)!
