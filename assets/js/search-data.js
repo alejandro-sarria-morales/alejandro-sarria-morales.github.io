@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-excited-to-be-part-of-the-teaching-team-for-sicss-bogota-2026",
-          title: 'I’m excited to be part of the teaching team for SICSS-Bogota 2026!',
+            },},{id: "news-i-ll-be-in-bogotá-this-summer-to-be-a-part-of-the-team-for-this-year-s-summer-institute-in-computational-social-science",
+          title: 'I’ll be in Bogotá this summer to be a part of the team...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
