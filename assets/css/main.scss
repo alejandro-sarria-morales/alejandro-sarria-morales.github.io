@@ -24,6 +24,21 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+// === Font override ===
+body {
+  font-family: 'Aptos Serif', 'Aptos', Georgia, 'Times New Roman', serif;
+}
+
+// === Spacing between title and description ===
+.post-header {
+  .post-title {
+    margin-bottom: 0.2rem;
+  }
+  .desc {
+    margin-top: 1.2rem;
+  }
+}
+
 // === Social icons customization ===
 .contact-icons i {
   font-size: 1.1rem;   // smaller icons; adjust 0.8rem, 1rem, etc.
