@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I use computational methods to study politics and culture. My work draws on **statistical modeling** and **natural language processing** to understand how **systems of political belief** are structured, and how they influence the way people think and act.
+I use computational methods to study the cultural and cognitive mechanisms of political ideologies. My work focuses on how machine learning and and natural language processing can be used to further understand how political belief systems are formed, and how they influence the way people think and act.
 
-Before coming to Duke, I received an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/). You can see my complete CV [here](https://alejandro-sarria-morales.github.io/cv/).
+Before coming to Duke, I received an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/), where I also completed studies in economics and comparative politics. You can see my complete CV [here](https://alejandro-sarria-morales.github.io/cv/).
 
 I was born and raised in Bogotá, Colombia, and like to [cook](https://www.instagram.com/fromrags.todishes/) in my free time.
