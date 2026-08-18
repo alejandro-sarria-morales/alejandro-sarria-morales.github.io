@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I use computational methods to study the cultural and cognitive mechanisms of political ideologies. My work focuses on how machine learning and and natural language processing can be used to further understand how political belief systems are formed, and how they influence the way people think and act.
+I use computational methods to study the cultural and cognitive mechanisms behind **political ideologies**.
+
+My work takes advantage of machine learning and natural language processing approaches to examine how ideologies can be represented, hoy they are formed and how they influence the way people think and act.
 
 Before coming to Duke, I received an MA in Computational Social Science from the [University of Chicago](https://macss.uchicago.edu/) and a BA in Psychology from [Universidad de los Andes](https://cienciassociales.uniandes.edu.co/), where I also completed studies in economics and comparative politics. You can see my complete CV [here](https://alejandro-sarria-morales.github.io/cv/).
 
